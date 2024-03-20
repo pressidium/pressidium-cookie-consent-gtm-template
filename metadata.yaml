@@ -15,5 +15,5 @@
 homepage: "https://github.com/pressidium/pressidium-cookie-consent"
 documentation: "https://github.com/pressidium/pressidium-cookie-consent/wiki"
 versions:
-  - sha: YOUR_GITHUB_COMMIT_SHA
+  - sha: bf3a6a91e1ac8b69098bee1b0ff90fb6a39b7cb2
     changeNotes: Initial version
