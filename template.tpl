@@ -743,7 +743,7 @@ ___NOTES___
 
 == Changelog ==
 
-= GTM Template 1.0.0: Mar 13, 2024 =
+= GTM Template 1.0.0: Mar 20, 2024 =
 
 * Initial version
 
